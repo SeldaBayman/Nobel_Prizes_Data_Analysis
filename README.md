@@ -1,6 +1,11 @@
 # Nobel_Prizes_Data_Analysis
 I made nobel data analysis with Phyton.
 
+Nobel Prizes Data Summary (1901-2019)
+The Nobel Prizes, established by Alfred Nobel, recognize outstanding contributions in various fields such as Physics, Chemistry, Medicine, Literature, Peace, and Economic Sciences. The dataset includes comprehensive details about the laureates, such as their names, countries, award categories, ages, and the years they received the Nobel Prize. Below is a summary of my findings and analyses based on this dataset.
+
+The Nobel Prizes, awarded annually since 1901, celebrate outstanding contributions to humanity in Physics, Chemistry, Medicine, Literature, Peace, and Economic Sciences. Analyzing the data from 1901 to 2019 provides valuable insights into the distribution of these prestigious awards across different countries, genders, ages, and fields. Below is a detailed summary of my findings based on the Nobel Prize dataset.
+
 Project Questions
 
 Find the top ten countries that have won the most Nobel Prizes.
@@ -89,14 +94,17 @@ The impact of modern research and global cooperation on Nobel achievements.
 Achievements and Methodology
 Throughout these projects, I have developed a strong proficiency in data analysis and visualization. My approach typically involved:
 
-Data Extraction: Using SQL to extract relevant data from databases.
+Data Extraction: Using Phyton to extract relevant data from databases.
 Data Cleaning and Manipulation: Utilizing Python libraries like Pandas to clean and manipulate data.
-Data Visualization: Creating insightful visualizations using tools like Matplotlib, Seaborn, and Power BI.
+Data Visualization: Creating insightful visualizations using tools like Matplotlib and Seaborn.
 Historical Contextualization: Providing context and narratives to enhance the understanding of the data.
+
 Future Goals
 Looking ahead, I am eager to deepen my expertise in machine learning and advanced analytics. My goal is to apply these skills to solve real-world problems, drive business growth, and contribute to impactful projects. I am committed to staying updated with the latest industry trends and tools to remain at the forefront of the data analysis field.
 
 Connect with Me
 I am always open to new opportunities and collaborations. Feel free to connect with me on LinkedIn or visit my Personal Website/Blog for more information about my work.
+
+Feel free to adjust and personalize this summary further to reflect your individual experiences and insights. This detailed narrative will help showcase your analytical skills, project experiences, and dedication to the field of data analysis.
 
 
